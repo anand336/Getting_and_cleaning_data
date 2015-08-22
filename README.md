@@ -28,6 +28,4 @@ Good luck!
 
 * CodeBook.md: it is a brief explanation of what run_analysis.R does
 
-=======
-# Getting_and_cleaning_data
->>>>>>> origin/master
+
